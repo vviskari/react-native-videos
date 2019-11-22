@@ -8,7 +8,7 @@ React Native implementation of the classic Flappy Bird game using react-native-g
 2. `cd ios && pod install && cd ..`
 3. `react-native run-ios`
 
-*** Android and WSL ***
+***Android and WSL***
 
 0. install npm to WSL (Ubuntu) according to [installation instructions](https://github.com/nodesource/distributions/blob/master/README.md#installation-instructions)
 1. in WSL `npm install` resolve dependencies according to [React Native CLI Quickstart -> Linux -> Android](https://facebook.github.io/react-native/docs/)
